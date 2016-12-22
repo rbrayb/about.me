@@ -1,5 +1,7 @@
 ## Welcome to  My GitHub Pages
 
+I work as a developer / consultant / architect on the Microsoft Identity stack.
+
 I have architected, developed and deployed solutions for a number of customers in NZ and Australia which involve:
 
 - Active Directory Federation Services (ADFS)
