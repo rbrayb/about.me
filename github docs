@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to  My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rbrayb/about.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have architected, developed and deployed solutions for a number of customers in NZ and Australia which involve:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Active Directory Federation Services (ADFS)
+- ADFS WAP
+- Azure Active Directory
+- Azure Active Directory B2C
+- Azure Graph API
+- Active Directory Authentication Library (ADAL)
+- Windows Identity Foundation (WIF)
+- OWIN
+- SAML 2.0
+- WS-Federation
+- OpenID Connect
+- OAuth2
 
-### Markdown
+I am a Microsoft P-TSP for ADFS and Azure Identity in Auckland. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a co-admin, I run the [North Shore .NET User Group](http://northshore.netusergroup.org.nz/). 
 
-```markdown
-Syntax highlighted code block
+We are also on [Meetup](https://www.meetup.com/North-Shore-NET-User-Group/).
 
-# Header 1
-## Header 2
-### Header 3
+I have presented at user groups and TechEd / Ignite NZ on Microsoft Identity. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbrayb/about.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A list of my TechEd / Ignite NZ sessions is [here](https://channel9.msdn.com/Events/Speakers/rory-braybrook).
